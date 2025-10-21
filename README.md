@@ -1,7 +1,7 @@
 
 ## Built With
 
-  live linke ---> https://dineshmarasini-portfolio.vercel.app/
+  live link ---> https://dineshmarasini-portfolio.vercel.app/
 This project was built using these technologies.
 
 - React.js
