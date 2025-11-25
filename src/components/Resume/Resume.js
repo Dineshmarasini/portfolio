@@ -41,7 +41,7 @@ function Resume() {
               ]}
             />
             <Resumecontent
-              title="Test Automation and QA | Kreesa"
+              title="Test Automation and QA | Ecommerce"
               date="Dec 2021 - Feb 2023"
               content={[
                 " I have worked with a professional developer to design, develop, and implement automated and manual testing procedures",
